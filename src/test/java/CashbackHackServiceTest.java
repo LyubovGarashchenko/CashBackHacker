@@ -1,5 +1,4 @@
-import org.testng.Assert;
-import org.testng.annotations.Test;
+
 import ru.netology.service.CashbackHackService;
 
 import static org.testng.Assert.assertEquals;
